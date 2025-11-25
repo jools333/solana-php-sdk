@@ -1,6 +1,6 @@
 {
     "name": "jools/solana-php-sdk",
-    "version": "1.0.1",
+    "version": "1.0.1.0",
     "description": "Solana PHP SDK for interacting with the Solana blockchain",
     "keywords": [
         "attestto",
